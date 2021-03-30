@@ -6,7 +6,7 @@
   <link href="https://www.dengxy.cn/atom.xml" rel="self"/>
   
   <link href="https://www.dengxy.cn/"/>
-  <updated>2021-03-30T08:20:28.018Z</updated>
+  <updated>2021-03-30T09:05:11.931Z</updated>
   <id>https://www.dengxy.cn/</id>
   
   <author>
@@ -20,10 +20,35 @@
     <title>JavaScript基本数据类型和引用数据类型</title>
     <link href="https://www.dengxy.cn/2021/03/30/JavaScript%E5%9F%BA%E6%9C%AC%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E5%92%8C%E5%BC%95%E7%94%A8%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B/"/>
     <id>https://www.dengxy.cn/2021/03/30/JavaScript%E5%9F%BA%E6%9C%AC%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E5%92%8C%E5%BC%95%E7%94%A8%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B/</id>
-    <published>2021-03-30T08:11:31.000Z</published>
-    <updated>2021-03-30T08:20:28.018Z</updated>
+    <published>2021-03-30T09:04:46.000Z</published>
+    <updated>2021-03-30T09:05:11.931Z</updated>
     
-    <content type="html"><![CDATA[<p><strong>基本数据类型</strong></p><p>基本类型值指的是简单的数据段，其中基本数据类型是直接保存在栈内存中，对于基本数据类型的传递则是进行值传递</p><ul><li>Undifined</li><li>Null</li><li>Boolean</li><li>Number</li><li>String</li><li>Symbol</li></ul><p><img src="C:\Users\Administrator\Desktop\图片\clipboard.png" alt="clipboard"></p><p><strong>引用数据类型</strong></p><p>引用数据类型统称为 Object 类型，和基本数据类型不同的是引用数据类型在进行变量赋值的时候实际上传递的是引用地址，在栈内存中保存的是地址，在堆内存中保存着地址对应的值</p><ul><li><p>Object</p></li><li><p>Array</p></li><li><p>Date</p></li><li><p>RegExp</p></li><li><p>Function</p><p><img src="C:\Users\Administrator\Desktop\图片\1.png" alt="1"></p></li></ul><p><strong>检测数据类型</strong></p><p>JavaScript 是一种<strong>弱类型</strong>或者说<strong>动态</strong>语言。这意味着你不用提前声明变量的类型，在程序运行过程中，类型会被自动确定。这也意味着你可以使用同一个变量保存不同类型的数据，那么如何进行数据类型检测确定，那么就要进行检测判断</p><ul><li>typeof</li><li>instanceof</li></ul><p>typeof 操作符的唯一目的就是检查数据类型，如果我们希望检查任何从 Object 派生出来的结构类型，使用 typeof 是不起作用的，因为总是会得到 “object”。检查 Object 种类的合适方式是使用 <a href="https://developer.mozilla.org/en-US/docs/Glossary/instanceof">instanceof</a> 关键字。但即使这样也存在误差。</p>]]></content>
+    <content type="html"><![CDATA[<p><strong>基本数据类型</strong></p><p>基本类型值指的是简单的数据段，其中基本数据类型是直接保存在栈内存中，对于基本数据类型的传递则是进行值传递</p><ul><li>Undifined</li><li>Null</li><li>Boolean</li><li>Number</li><li>String</li><li>Symbol</li></ul><p><img src="/.cn//Users\Administrator\Desktop\图片\clipboard.png" alt="clipboard"></p><p><strong>引用数据类型</strong></p><p>引用数据类型统称为 Object 类型，和基本数据类型不同的是引用数据类型在进行变量赋值的时候实际上传递的是引用地址，在栈内存中保存的是地址，在堆内存中保存着地址对应的值</p><ul><li><p>Object</p></li><li><p>Array</p></li><li><p>Date</p></li><li><p>RegExp</p></li><li><p>Function</p><p><img src="/.cn//Users\Administrator\Desktop\图片\1.png" alt="1"></p></li></ul><p><strong>检测数据类型</strong></p><p>JavaScript 是一种<strong>弱类型</strong>或者说<strong>动态</strong>语言。这意味着你不用提前声明变量的类型，在程序运行过程中，类型会被自动确定。这也意味着你可以使用同一个变量保存不同类型的数据，那么如何进行数据类型检测确定，那么就要进行检测判断</p><ul><li>typeof</li><li>instanceof</li></ul><p>typeof 操作符的唯一目的就是检查数据类型，如果我们希望检查任何从 Object 派生出来的结构类型，使用 typeof 是不起作用的，因为总是会得到 “object”。检查 Object 种类的合适方式是使用 <a href="https://developer.mozilla.org/en-US/docs/Glossary/instanceof">instanceof</a> 关键字。但即使这样也存在误差。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;strong&gt;基本数据类型&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;基本类型值指的是简单的数据段，其中基本数据类型是直接保存在栈内存中，对于基本数据类型的传递则是进行值传递&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Undifined&lt;/li&gt;
+&lt;li&gt;Null&lt;/li&gt;
+&lt;li&gt;Boolean</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>JavaScript基本数据类型和引用数据类型</title>
+    <link href="https://www.dengxy.cn/2021/03/30/JavaScript%E5%9F%BA%E6%9C%AC%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E5%92%8C%E5%BC%95%E7%94%A8%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B111/"/>
+    <id>https://www.dengxy.cn/2021/03/30/JavaScript%E5%9F%BA%E6%9C%AC%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E5%92%8C%E5%BC%95%E7%94%A8%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B111/</id>
+    <published>2021-03-30T08:11:31.000Z</published>
+    <updated>2021-03-30T09:04:25.562Z</updated>
+    
+    <content type="html"><![CDATA[<p><strong>基本数据类型</strong></p><p>基本类型值指的是简单的数据段，其中基本数据类型是直接保存在栈内存中，对于基本数据类型的传递则是进行值传递</p><ul><li>Undifined</li><li>Null</li><li>Boolean</li><li>Number</li><li>String</li><li>Symbol</li></ul><p><img src="/.cn//Users\Administrator\Desktop\图片\clipboard.png" alt="clipboard"></p><p><strong>引用数据类型</strong></p><p>引用数据类型统称为 Object 类型，和基本数据类型不同的是引用数据类型在进行变量赋值的时候实际上传递的是引用地址，在栈内存中保存的是地址，在堆内存中保存着地址对应的值</p><ul><li><p>Object</p></li><li><p>Array</p></li><li><p>Date</p></li><li><p>RegExp</p></li><li><p>Function</p><p><img src="/.cn//Users\Administrator\Desktop\图片\1.png" alt="1"></p></li></ul><p><strong>检测数据类型</strong></p><p>JavaScript 是一种<strong>弱类型</strong>或者说<strong>动态</strong>语言。这意味着你不用提前声明变量的类型，在程序运行过程中，类型会被自动确定。这也意味着你可以使用同一个变量保存不同类型的数据，那么如何进行数据类型检测确定，那么就要进行检测判断</p><ul><li>typeof</li><li>instanceof</li></ul><p>typeof 操作符的唯一目的就是检查数据类型，如果我们希望检查任何从 Object 派生出来的结构类型，使用 typeof 是不起作用的，因为总是会得到 “object”。检查 Object 种类的合适方式是使用 <a href="https://developer.mozilla.org/en-US/docs/Glossary/instanceof">instanceof</a> 关键字。但即使这样也存在误差。</p>]]></content>
     
     
       
